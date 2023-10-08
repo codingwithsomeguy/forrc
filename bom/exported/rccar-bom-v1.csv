@@ -11,7 +11,7 @@ Quantity	Item	Description	Link	Gross Price	Gross Units	Unit Price	Quantity Neede
 4	LEDs	BOJACK 5 Colors 500 pcs 5mm LED Diode Lights Assored Kit Pack Bright Lighting Bulb Lamps Electronics Components 5 mm Light Emitting Diodes Parts	https://www.amazon.com/dp/B09XDMJ6KY	$11.99	500	$0.02	$0.10	
 2	resistors for LEDs	EDGELEC 100pcs 220 ohm Resistor 1/2w (0.5Watt) ±1% Tolerance Metal Film Fixed Resistor, Multiple Values of Resistance Optional	https://www.amazon.com/dp/B07QK9ZBVZ	$5.99	100	$0.06	$0.12	
 1	BJT	MCIGICM (200 Pcs) 2N2222 Transistor, 2N2222A to-92 Transistor NPN 40V 600mA 300MHz 625mW Through Hole	https://www.amazon.com/dp/B06XPWS52G	$6.99	200	$0.03	$0.03	
-15	PLA	OVERTURE PLA Filament 1.75mm PLA 3D Printer Filament, 2kg Cardboard Spool (4.4lbs), Dimensional Accuracy +/- 0.03mm, Fit Most FDM Printer (White 2-Pack)	https://www.amazon.com/dp/B085DX3X8Y	$36.99	2000	$0.02	$0.28	
+48	PLA	OVERTURE PLA Filament 1.75mm PLA 3D Printer Filament, 2kg Cardboard Spool (4.4lbs), Dimensional Accuracy +/- 0.03mm, Fit Most FDM Printer (White 2-Pack)	https://www.amazon.com/dp/B085DX3X8Y	$36.99	2000	$0.02	$0.89	
 								
 20	jumpers	AUSTOR 560 Pieces Jumper Wire Kit 14 Lengths Assorted Preformed Breadboard Jumper Wire with Free Box	https://www.amazon.com/dp/B07CJYSL2T	$11.99	560	$0.02	$0.43	
 1	esp32cam with CH340C usb card	DORHEA 4 Set ESP32 Cam WiFi Bluetooth Development Board with OV2640 Camera Module + Micro USB to Serial Port CH340C 4.75V-5.25V Nodemcu for Raspberry Pi	https://www.amazon.com/dp/B09265G5Z4	$28.99	4	$7.25	$7.25	
@@ -22,12 +22,12 @@ Quantity	Item	Description	Link	Gross Price	Gross Units	Unit Price	Quantity Neede
 10	F/M jumper cables short	EDGELEC 120pcs 10cm Dupont Wire Male to Female Breadboard Jumper Wires 3.9 inch 1pin-1pin 2.54mm Connector for DIY Arduino Raspberry PI 10 15 20 30 40 50 100cm Optional Multicolored Ribbon Cables	https://www.amazon.com/dp/B07GD1R5MS	$6.98	120	$0.06	$0.58	
 1	shift register	(Pack of 25 Pieces) MCIGICM 74HC595 74595 SN74HC595N 8-Bit Shift Register DIP-16 IC 74hc595 Shift registers	https://www.amazon.com/dp/B07HFWB9L9	$6.99	25	$0.28	$0.28	
 								
-	subtotal with USB programmer			$227.86			$20.91	
+	subtotal with USB programmer			$227.86			$21.52	
 								
 -1	esp32cam with CH340C usb card	DORHEA 4 Set ESP32 Cam WiFi Bluetooth Development Board with OV2640 Camera Module + Micro USB to Serial Port CH340C 4.75V-5.25V Nodemcu for Raspberry Pi	https://www.amazon.com/dp/B09265G5Z4	$28.99	4	$7.25	-$7.25	
 1	esp32cam without USB	4PCS ESP32-CAM Camera Module ESP32 CAM WiFi Bluetooth Development Board ESP32 Wireless OV2640 Camera Module with Jumper Wire	https://www.amazon.com/dp/B08R8F2BWL	$24.99	4	$6.25	$6.25	without the programmer (use an esp8266 or similar)
 								
-	subtotal without USB programmer						$19.91	
+	subtotal without USB programmer						$20.52	
 								
 								
 								
