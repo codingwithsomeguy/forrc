@@ -10,12 +10,13 @@ on readily available off the shelf parts.
 
 ## Kits
 Kits are also available from the Fairfield County Makers' Guild (FCMG)
-close to cost, any profits derived from purchasing a kit goes towards
-supporting the FCMG. Unless you're purchasing a very large quantity of
-cars, the kit probably costs less than buying all of the parts
-individually, but feel free to source your own parts! At the time this
-was created, the kit cost a bit less, but YMMV. Your support is
-always appreciated.
+close to cost, with a small markup for packing/collating and a small
+donation. Any profits derived from purchasing a kit goes towards
+supporting the FCMG, a 501(c)(3) nonprofit located in Norwalk, CT.
+Unless you're purchasing a very large quantity of cars, the kit probably
+costs less than buying all of the parts individually, but feel free
+to source your own parts! At the time this was created, the kit cost a
+bit less, but YMMV. Your support is always appreciated.
 
 ## Practical Info
 The unmodified base car is geared down for relatively low speeed use.
