@@ -8,6 +8,8 @@ on readily available off the shelf parts.
 
 ![FORRC Design](forrc-design.png)
 
+Note that the FreeCAD file uses the [freecad.gears](https://github.com/looooo/freecad.gears) / FCGear external workbench, available in the Addon Manager.
+
 ## Kits
 Kits are also available from the Fairfield County Makers' Guild (FCMG)
 close to cost, with a small markup for packing/collating and a small
